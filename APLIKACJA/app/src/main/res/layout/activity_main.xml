@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/R"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="TextView"
+        />
+
+    <Button
+        android:id="@+id/Snikers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="@string/ButtonSnikers"
+        />
+
+
+    <Button
+        android:id="@+id/Mars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="@string/ButtonMars"
+        />
+
+    <Button
+        android:id="@+id/Kinderbueno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="@string/ButtonKinderbueno"
+        />
+
+    <Button
+        android:id="@+id/Paint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ButtonPaint" />
+
+    <Button
+        android:id="@+id/Testy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Testy" />
+
+    <Button
+        android:id="@+id/ViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ViewPager" />
+
+
+</LinearLayout>

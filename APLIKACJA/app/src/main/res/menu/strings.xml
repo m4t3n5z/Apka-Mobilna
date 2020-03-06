@@ -1,0 +1,3 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string android:name="hint_enter_name">Enter Name</string>
+</resources>
