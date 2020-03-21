@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">APLIKACJA</string>
+    <string name="app_name">APKA</string>
     <string name="ButtonSnikers">Snikers</string>
     <string name="ButtonMars">Mars</string>
     <string name="ButtonKinderbueno">Kinderbueno</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
